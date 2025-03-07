@@ -1,1 +1,0 @@
-print("Seelam Tanooj Kumar")
